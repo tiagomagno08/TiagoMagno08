@@ -6,7 +6,7 @@
   
 |GITHUB STATS|MOST USED LANGUAGES|
 |:---:|:---:|
-|[![Iago G. Nunes github stats](https://github-readme-stats.vercel.app/api?username=tiagomagno&theme=midnight-purple&show_icons=true&count_private=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)|![1](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagomagno&hide=C%23&theme=midnight-purple&layout=compact&langs_count=8&hide_title=true)
+|[![Iago G. Nunes github stats](https://github-readme-stats.vercel.app/api?username=tiagomagno08&theme=midnight-purple&show_icons=true&count_private=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)|![1](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagomagno08&hide=C%23&theme=midnight-purple&layout=compact&langs_count=8&hide_title=true)
 
 </div>
 
